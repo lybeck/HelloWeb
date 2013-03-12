@@ -1,0 +1,25 @@
+/* 
+    Document   : style
+    Created on : 12-Mar-2013, 10:55:15
+    Author     : llybeck
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+
+header p {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+body {
+    background-color: activeborder;
+    color: #303030;
+}
+
+footer p {
+    text-align: center;
+    background-color: aliceblue;
+}
+
